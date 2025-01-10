@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Интернет без компромиссов — для вашего бизнеса
+subtitle: "Когда один провайдер "не вывозит" — мы объединяем несколько. Получаем стабильный интернет. В несколько раз быстрее."
 layout: page
 callouts: home_callouts
 show_sidebar: true

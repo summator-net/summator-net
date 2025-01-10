@@ -1,12 +1,12 @@
 style: is-light
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
-    icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
-    icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
-    icon: fa-github
+  - title: Отказоустойчивость
+    subtitle: При сбоях у одного из операторов, другие продолжают работать
+    icon: fa-plug
+  - title: Молниеносная скорость
+    subtitle: Работает в разы быстрее благодаря агрегации частот и суммированию каналов
+    icon: fa-bolt
+  - title: Работает везде
+    subtitle: Подключение в любой локации. Даже там, где нет стабильного сигнала
+    icon: fa-satellite-dish
     icon_brand: true

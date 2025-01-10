@@ -1,4 +1,5 @@
 # Site Settings
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 lang: en
 title: Bulma Clean Theme
 tagline: Bulma Clean Theme

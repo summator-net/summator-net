@@ -8,5 +8,5 @@ items:
     icon: fa-bolt
   - title: Работает везде
     subtitle: Подключение в любой локации. Даже там, где нет стабильного сигнала
-    icon: fa-satellite-dish
+    icon: fa-wifi
     icon_brand: true

@@ -7,9 +7,9 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# Как это устроено
 
-![Диаграмма сети](/img/summator1.svg)
+![Простая диаграмма, объясняющая принцип работы сумматора](/img/summator1.svg)
 **Простая диаграмма, объясняющая принцип работы сумматора**
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
@@ -18,9 +18,13 @@ This website showcases the options for the Bulma Clean theme. The theme is avail
 ![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
 ![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
 
-## Ruby Gem
+## Что такое агрегация интернет-каналов (бондинг)?
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
+Бондинг — это технология, которая позволяет объединить несколько интернет-каналов, чтобы создать одно высокоскоростное соединение. Для этого используется специальный сервер, который занимается суммированием входящего и исходящего трафика.
+
+Этот метод позволяет объединить трафик с разных модемов, использующих SIM-карты разных операторов. Также можно объединить трафик с модемов и проводного интернета для улучшения качества связи.
+
+
 
 ## Documentation
 

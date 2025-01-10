@@ -8,6 +8,9 @@ show_sidebar: true
 
 # Bulma Clean Theme demo website
 
+![Диаграмма сети](/img/summator1.svg)
+**Простая диаграмма, объясняющая принцип работы сумматора**
+
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
 [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
